@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    padding-left:15px;
+}
+.navigation-menu>a{
+    color:blue;
+}
+.navigation-menu>a:hover{
+color: red;
+}
+.navigation-menu>span{
+    width: 1px;
+    border: 1px solid black;
+    height: 2px;
+    margin-left: 6px;
+}
+table{
+    width: 15%;
+}
+table,th,td{
+    border: 2px solid black;
+    text-align: center;
+}
